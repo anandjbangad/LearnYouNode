@@ -1,0 +1,9 @@
+
+.gitignore
+.idea/inspectionProfiles/
+.idea/jsLibraryMappings.xml
+.idea/runConfigurations/
+.idea/vcs.xml
+public/images/
+public/javascripts/
+
